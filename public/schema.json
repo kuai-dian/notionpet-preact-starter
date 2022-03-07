@@ -1,0 +1,27 @@
+{
+  "name": "宋海组件",
+  "key": "songhai",
+  "schemas": [
+    {
+      "group": "主人",
+      "label": "主人名称",
+      "type": "text",
+      "option": "userName",
+      "defaultValue": "无名英雄"
+    },
+    {
+      "group": "主人",
+      "label": "主人颜色",
+      "type": "color",
+      "option": "userNameColor",
+      "defaultValue": "#09f"
+    },
+    {
+      "group": "访客",
+      "label": "访客数量颜色",
+      "type": "color",
+      "option": "visitorColor",
+      "defaultValue": "#f60"
+    }
+  ]
+}
